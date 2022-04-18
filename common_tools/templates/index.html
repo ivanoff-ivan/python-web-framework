@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>The value is {{ value }}</h1>
+<h2>The value2 is {{ value2 }}</h2>
+<h3>The site was opened {{ count }} times</h3>
+<ul>
+    {% for profile in profiles_page %}
+        <li>
+            {{ profile }}
+        </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
