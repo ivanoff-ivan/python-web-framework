@@ -1,3 +1,3 @@
 # python-web-framework
 
-Exercises and demos from enrolled Python Web Framework (Django) course at Software University (SoftUni)
+Exercises and demos from enrolled course "Python Web Framework" (Django) at Software University (SoftUni).
